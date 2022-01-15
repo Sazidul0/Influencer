@@ -186,6 +186,8 @@ footer{
         width: 80%;
     }
     #influencer-preview-img{
+        margin-top: 50px;
+        margin-bottom: 0;
         width: 80%;
     }
     }
